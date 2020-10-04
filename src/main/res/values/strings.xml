@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CarMart - Vehicle App Notices</string>
+    <string name="n_edit_notice">Edit Notice</string>
+    <string name="n_edit_information">Edit Information</string>
+    <string name="n_edit_heading">Edit Heading</string>
+    <string name="n_notice_id">Notice ID</string>
+    <string name="n_edit_name">Edit Name</string>
+    <string name="n_change_mobile">Change Mobile</string>
+    <string name="n_change_e_mail">Change E-mail</string>
+    <string name="n_change_notice_information">Update Notice Information</string>
+    <string name="n_search">Search</string>
+    <string name="n_heading_of_notice">Heading of Notice</string>
+    <string name="n_person_name">Person Name</string>
+    <string name="n_phone">Phone</string>
+    <string name="n_e_mail">E-mail</string>
+    <string name="n_notice">Notice</string>
+    <string name="n_notice_information">Notice Information</string>
+    <string name="n_enter_a_heading">Enter a Heading</string>
+    <string name="n_enter_name">Enter Name</string>
+    <string name="n_enter_mobile">Enter Mobile</string>
+    <string name="n_enter_e_mail">Enter E-mail</string>
+    <string name="n_n_notice_id_edit">Notice ID</string>
+    <string name="edit_notice">EDIT NOTICE</string>
+    <string name="notice_id">Notice ID</string>
+
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="noticeerror">Enter a valid notice</string>
+    <string name="n_enter_price">price</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_mobile">Please Enter a Valid Number</string>
+    <string name="invalid_email">Enter Valid Email</string>
+    <string name="invalid_notice">Please enter Notice Information</string>
+    <string name="enter_province">Enter Province</string>
+    <string name="channel_description">channel Description</string>
+    <string name="channel_name">channel name</string>
+    <string name="saveInfoBt">Add Notice</string>
+    <string name="province">Enter Province</string>
+
+
+</resources>
